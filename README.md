@@ -10,7 +10,7 @@ To build project you need to write this commands:
 
 `docker-compose build`,
 
-`docker-compose up`, and then you ckick on this URL: [0.0.0.0:8080](0.0.0.0:8080)
+`docker-compose up`, and then you click or type this URL: [0.0.0.0:8080](http://0.0.0.0:8080)
 
 
 deployed webpage -> https://bckndlabs-com.onrender.com 
